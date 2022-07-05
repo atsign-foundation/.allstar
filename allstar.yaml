@@ -1,0 +1,5 @@
+optConfig:
+  optOutStrategy: false
+optConfig:
+ optInRepos:
+ - at_server
