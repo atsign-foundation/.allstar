@@ -3,3 +3,5 @@ optConfig:
 optConfig:
  optInRepos:
  - at_server
+ - at_client_sdk
+ - at_pico_w
