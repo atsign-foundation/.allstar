@@ -1,7 +1,33 @@
 optConfig:
   optOutStrategy: false
-optConfig:
- optInRepos:
- - at_server
- - at_client_sdk
- - at_pico_w
+  optInRepos:
+  - at_server
+  - at_client_sdk
+  - at_pico_w
+  - at_widgets
+  - atmosphere_pro
+  - at_wavi_app
+  - at_tools
+  - at_mono
+  - at_java
+  - at_libraries
+  - at_services
+  - private_fit
+  - arrive
+  - sshnoports
+  - at_talk
+  - atsign.dev-3.0
+  - iot.atsign.dev
+  - at_app
+  - at_protocol
+  - FHIR-atHack
+  - dess
+  - privatefit
+  - open_source_app_default
+  - at_email
+  - at_dude
+  - mwc_demo
+  - at_demos
+  - atsign.dev
+  - at-bot
+  - max30101
