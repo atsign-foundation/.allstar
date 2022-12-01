@@ -1,33 +1,39 @@
 optConfig:
   optOutStrategy: false
   optInRepos:
-  - at_server
   - at_client_sdk
-  - at_pico_w
-  - at_widgets
-  - atmosphere_pro
-  - at_wavi_app
   - at_tools
-  - at_mono
-  - at_java
-  - at_libraries
-  - at_services
-  - private_fit
-  - arrive
   - sshnoports
-  - at_talk
-  - atsign.dev-3.0
-  - iot.atsign.dev
-  - at_app
+  - at_mono
+  - at_libraries
+  - at_server
+  - arrive
+  - at_widgets
+  - .github
+  - mwc_demo
   - at_protocol
-  - FHIR-atHack
+  - docs.atsign.com
+  - at_app
   - dess
-  - privatefit
+  - at_demos
+  - at_pico_w
+  - atmosphere_pro
+  - at_services
+  - FHIR-atHack
+  - seccheck
+  - max30101
   - open_source_app_default
   - at_email
+  - at_java
   - at_dude
-  - mwc_demo
-  - at_demos
-  - atsign.dev
+  - at_wavi_app
+  - at_split_horizon_root
+  - at_gauges
+  - at_talk
+  - private_fit
   - at-bot
-  - max30101
+  - at_gps_demo
+  - at_keymaker
+  - .allstar
+#  - docs.atsign.com-prod # GitHub pages repo
+#  - atsign-foundation.github.io # GitHub pages repo
