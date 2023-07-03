@@ -35,5 +35,9 @@ optConfig:
   - at_gps_demo
   - at_keymaker
   - .allstar
+  - at_esp32
+  - at_c
+  - at_rust
+  - at_python
 #  - docs.atsign.com-prod # GitHub pages repo
 #  - atsign-foundation.github.io # GitHub pages repo
